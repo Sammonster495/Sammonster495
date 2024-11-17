@@ -1,16 +1,4 @@
-<table align="center">
-  <tr>
-    <td align="center" valign="middle">
-      <img height="80" src="./github.gif" />
-    </td>
-    <td align="center" valign="middle" style="font-size: 40px;">
-      My GitHub Stats
-    </td>
-    <td align="center" valign="middle">
-      <img height="80" src="./github.gif" />
-    </td>
-  </tr>
-</table>
+<h1 align="center">My GitHub Stats</h1>
 
 <p align="center">
     <a href="https://github.com/Sammonster495">
