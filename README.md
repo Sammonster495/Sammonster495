@@ -18,8 +18,8 @@
     </a>
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/Sammonster495">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sammonster495&theme=dark&hide_border=false" />
     </a>
-</p>
+</p> -->
